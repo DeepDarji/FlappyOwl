@@ -34,10 +34,6 @@ Visit the [Flappy Owl Web Game](https://your-web-game-link.com) to play the game
 3. **Objective:** Navigate the owl through pipes without colliding to earn points.
 
 
-## Development Journey
-
-Document your development journey, challenges faced, and lessons learned during the creation of Flappy Owl. Share insights into how specific features were implemented and improved.
-
 ## Credits
 
 - **Tutorial Videos and Courses:**
