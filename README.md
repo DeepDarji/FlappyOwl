@@ -1,6 +1,6 @@
 # Flappy Owl
 
-![Flappy Owl Banner](path/to/banner-image.jpg)
+![Flappy Owl Banner](gameplay.gif)
 
 ## Overview
 
@@ -14,7 +14,7 @@ Flappy Owl offers an experience similar to Flappy Bird:
 - **Objective:** Navigate the owl through pipes without colliding to earn points.
 
 ## Screenshots of Gameplay
-![Flappy Owl Gameplay](path/to/gameplay.gif)
+![Flappy Owl Gameplay](gameplay.mp4)
 
 ## Features
 
@@ -27,9 +27,9 @@ Flappy Owl offers an experience similar to Flappy Bird:
 
 ## How to Play
 
-Visit the [Flappy Owl Web Game](https://your-web-game-link.com) to play the game instantly. No downloads or installations required.
+Visit the [Flappy Owl Web Game](https://play.unity.com/mg/other/fo-23nz0q) to play the game instantly. No downloads or installations required.
 
-1. **Access the Game:** Open the [Flappy Owl Web Game](https://your-web-game-link.com) in your web browser.
+1. **Access the Game:** Open the [Flappy Owl Web Game](https://play.unity.com/mg/other/fo-23nz0q) in your web browser.
 2. **Controls:** Click or tap to make the owl fly.
 3. **Objective:** Navigate the owl through pipes without colliding to earn points.
 
